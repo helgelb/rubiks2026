@@ -50,6 +50,6 @@ kan resten komme etter.»
 (Oppdatert slutt-tidsbilde som blir stående som folk kan ta bilde av)
 
 ---
-[← Forrige: Del 6 – Konsekvensene](komposisjon-del-6-konsekvensene.md)
+[← Forrige: Del 6 – Konsekvensene](del-6-konsekvensene.md)
 
 [Til hovedoversikt](komposisjon.md)

@@ -53,6 +53,6 @@ Plattformen forsvant ikke etter det. Den sluttet bare å være startpunktet. Nå
 Filen er borte nå. Løst, levert, arkivert. Men noe ble igjen. Når nye oppgaver kommer inn, spør de ikke først hvor dette skal kjøre. De spør hva som faktisk må skje. Og noen ganger, før de åpner møtekalenderen, åpner de dataene.
 
 ---
-[Neste: Del 2 – Broen](komposisjon-del-2-broen.md)
+[Neste: Del 2 – Broen](del-2-broen.md)
 
 [Til hovedoversikt](komposisjon.md)

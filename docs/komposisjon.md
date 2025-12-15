@@ -4,13 +4,13 @@ Presentasjonen er delt opp i syv deler med dedikerte manusfiler. Hver del har na
 
 ## Deler
 
-1. [Del 1 – Fortellingen](komposisjon-del-1-fortellingen.md)
-2. [Del 2 – Broen](komposisjon-del-2-broen.md)
-3. [Del 3 – Gjenkjennelsen](komposisjon-del-3-gjenkjennelsen.md)
-4. [Del 4 – Skriftet](komposisjon-del-4-skriftet.md)
-5. [Del 5 – Eksempelet](komposisjon-del-5-eksempelet.md)
-6. [Del 6 – Konsekvensene](komposisjon-del-6-konsekvensene.md)
-7. [Del 7 – Avslutningen](komposisjon-del-7-avslutningen.md)
+1. [Del 1 – Fortellingen](del-1-fortellingen.md)
+2. [Del 2 – Broen](del-2-broen.md)
+3. [Del 3 – Gjenkjennelsen](del-3-gjenkjennelsen.md)
+4. [Del 4 – Skriftet](del-4-skriftet.md)
+5. [Del 5 – Eksempelet](del-5-eksempelet.md)
+6. [Del 6 – Konsekvensene](del-6-konsekvensene.md)
+7. [Del 7 – Avslutningen](del-7-avslutningen.md)
 
 ## Estimert tidsbruk
 

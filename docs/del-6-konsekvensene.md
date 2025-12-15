@@ -125,6 +125,6 @@ Tydelig eierskap.»
 «Men med full kontroll.»
 
 ---
-[← Forrige: Del 5 – Eksempelet](komposisjon-del-5-eksempelet.md) | [Neste: Del 7 – Avslutningen](komposisjon-del-7-avslutningen.md)
+[← Forrige: Del 5 – Eksempelet](del-5-eksempelet.md) | [Neste: Del 7 – Avslutningen](del-7-avslutningen.md)
 
 [Til hovedoversikt](komposisjon.md)

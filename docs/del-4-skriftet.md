@@ -117,6 +117,6 @@ men som muliggjørere.»
 hvordan dette kan se ut i praksis.»
 
 ---
-[← Forrige: Del 3 – Gjenkjennelsen](komposisjon-del-3-gjenkjennelsen.md) | [Neste: Del 5 – Eksempelet](komposisjon-del-5-eksempelet.md)
+[← Forrige: Del 3 – Gjenkjennelsen](del-3-gjenkjennelsen.md) | [Neste: Del 5 – Eksempelet](del-5-eksempelet.md)
 
 [Til hovedoversikt](komposisjon.md)

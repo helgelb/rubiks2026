@@ -67,6 +67,6 @@ Ikke mindre robust.
 Bare… tidligere.»
 
 ---
-[← Forrige: Del 2 – Broen](komposisjon-del-2-broen.md) | [Neste: Del 4 – Skriftet](komposisjon-del-4-skriftet.md)
+[← Forrige: Del 2 – Broen](del-2-broen.md) | [Neste: Del 4 – Skriftet](del-4-skriftet.md)
 
 [Til hovedoversikt](komposisjon.md)

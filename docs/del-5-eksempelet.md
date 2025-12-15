@@ -160,6 +160,6 @@ skjer det noen interessante ting.»
 (Perfekt inngang til Del 6: Hvorfor dette faktisk er bedre.)
 
 ---
-[← Forrige: Del 4 – Skriftet](komposisjon-del-4-skriftet.md) | [Neste: Del 6 – Konsekvensene](komposisjon-del-6-konsekvensene.md)
+[← Forrige: Del 4 – Skriftet](del-4-skriftet.md) | [Neste: Del 6 – Konsekvensene](del-6-konsekvensene.md)
 
 [Til hovedoversikt](komposisjon.md)

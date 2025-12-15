@@ -18,6 +18,6 @@ Arkitekten. Teamlederen. Sikkerhet. Plattform.
 Og nettopp derfor ble det så komplekst.»
 
 ---
-[← Forrige: Del 1 – Fortellingen](komposisjon-del-1-fortellingen.md) | [Neste: Del 3 – Gjenkjennelsen](komposisjon-del-3-gjenkjennelsen.md)
+[← Forrige: Del 1 – Fortellingen](del-1-fortellingen.md) | [Neste: Del 3 – Gjenkjennelsen](del-3-gjenkjennelsen.md)
 
 [Til hovedoversikt](komposisjon.md)
