@@ -1,4 +1,4 @@
-# Komposisjon – Del 6: Konsekvensene (Hvorfor dette faktisk er bedre)
+# Komposisjon – Del 10: Konsekvensene (Hvorfor dette faktisk er bedre)
 
 **Tidsbruk:** ca. 2,5–3 minutter
 
@@ -128,6 +128,6 @@ Tydelig eierskap.»
 «Men med full kontroll.»
 
 ---
-[← Forrige: Del 5 – Eksempelet](del-5-eksempelet.md) | [Neste: Del 7 – Avslutningen](del-7-avslutningen.md)
+[← Forrige: Del 9 – Eksempelet (demoen)](del-9-eksempelet-demo.md) | [Neste: Del 11 – Avslutningen](del-11-avslutningen.md)
 
 [Til hovedoversikt](komposisjon.md)
