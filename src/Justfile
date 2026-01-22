@@ -1,0 +1,38 @@
+set shell := ["bash", "-cu"]
+
+help:
+	@just --list
+
+process:
+	python process.py
+
+query:
+	python support/query_output.py
+
+process-query:
+	python process.py
+	python support/query_output.py
+
+test:
+	pytest -q
+
+demo:
+	bash run_demo.sh
+
+container-build:
+	docker build -t rubiks-demo .
+
+container-run:
+	docker run --rm -v "$PWD/output:/app/output" rubiks-demo
+
+container-run-custom:
+	docker run --rm \
+	  -v "$PWD/input:/app/input" \
+	  -v "$PWD/output:/app/output" \
+	  rubiks-demo \
+	  --input input/customers.csv \
+	  --output output/customers.parquet
+
+container-query:
+	docker run --rm -v "$PWD/output:/app/output" rubiks-demo
+	python support/query_output.py
