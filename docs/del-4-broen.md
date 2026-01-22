@@ -1,6 +1,6 @@
-# Komposisjon – Del 2: Broen (stillhet og gjenkjennelse)
+# Komposisjon – Del 4: Broen (stillhet og gjenkjennelse)
 
-**Tidsbruk:** ca. 30–45 sekunder
+**Tidsbruk:** ca. 0,5–0,75 minutter
 
 (Pause. Se opp. La rommet være stille et øyeblikk.)
 
@@ -18,6 +18,6 @@ Arkitekten. Teamlederen. Sikkerhet. Plattform.
 Og nettopp derfor ble det så komplekst.»
 
 ---
-[← Forrige: Del 1 – Fortellingen](del-1-fortellingen.md) | [Neste: Del 3 – Gjenkjennelsen](del-3-gjenkjennelsen.md)
+[← Forrige: Del 3 – Fortellingen](del-3-fortellingen.md) | [Neste: Del 5 – Gjenkjennelsen](del-5-gjenkjennelsen.md)
 
 [Til hovedoversikt](komposisjon.md)

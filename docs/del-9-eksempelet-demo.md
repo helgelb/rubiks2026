@@ -1,70 +1,6 @@
-# Komposisjon – Del 5: Eksempelet (den lille prosessen)
+# Komposisjon – Del 9: Eksempelet (demoen)
 
-**Tidsbruk:** ca. 4,5–5,5 minutter
-
-(Nå kan energien gå litt opp, men hold det rolig.)
-
-## 1. Overgangen inn i demoen (manus)
-
-«La oss gjøre dette helt konkret.»
-
-«Ikke med et stort system.
-Ikke med et diagram.»
-
-«Men med en liten prosess.»
-
-(kort pause)
-
-«Dette er den typen kode dataingeniøren i historien skrev.»
-
-## 2. Hva demoen skal illustrere (tydelig mål)
-
-Demoen skal vise fire ting, og kun disse:
-
-- Prosessen er liten og forståelig
-- Den kan kjøres lokalt
-- Den er ikke bundet til en plattform
-- Den produserer et reelt, varig resultat
-
-## 3. Faglig del: byggesteinene (1,5–2 min)
-
-**Slide-tittel:** «Små byggeklosser, stor effekt»
-
-**Kjernepoeng (si dette):**
-«Vi vil ha prosesser som er portable, testbare og lokale – med lavt overhead.»
-
-**Tre egenskaper å fremheve:**
-- **Portabilitet:** Samme prosess kan flyttes mellom laptop, CI, container og sky.
-- **Testbarhet:** Små prosesser kan verifiseres med enkle tester og gir trygghet.
-- **Lokal utvikling:** Kort feedback-loop uten å vente på cluster eller provisioning.
-
-**To praktiske konsekvenser:**
-- **Små byggeklosser:** Mindre kompleksitet og tydeligere eierskap.
-- **Lite overhead:** Færre tjenester, lavere friksjon, enklere drift.
-
-**Byggesteinene (slide som liste):**
-- **Åpne formater (Parquet/Delta):** Kontrakt mellom prosesser, raskt og språkagnostisk.
-- **Lokale motorer (DuckDB):** Produksjonslignende SQL uten cluster.
-- **Arrow:** Effektiv dataflyt mellom Python, Rust og JVM.
-- **Transaksjonslag (delta-rs/Delta Lake):** Historikk, schema-evolusjon, reproduserbarhet.
-
-**Avsluttende setning (bro til demo):**
-«Dette er grunnen til at vi kan begynne lokalt – og fortsatt være cloud native senere.»
-
-## 4. Demo-oppsett
-
-**Problem (samme som historien)**
-
-- Input: CSV
-- En enkel transformasjon
-- Output: analyseklar data (Delta)
-
-**Teknologi**
-
-- Python
-- DuckDB
-- Delta Lake (via delta-rs eller parquet + metadata)
-- Ikke Spark. Ikke cluster. Ikke cloud.
+**Tidsbruk:** ca. 2,25–2,5 minutter
 
 ## 5. Demo – steg for steg
 
@@ -140,7 +76,7 @@ pytest -q
 «Poenget er at dette kan flyttes.»
 «Plattformen er ikke borte – men den er ikke et krav for å komme i gang.»
 
-Overgang til Del 6:
+Overgang til Del 10:
 
 «Og når vi jobber slik, skjer det noen interessante ting – både teknisk og organisatorisk…»
 
@@ -182,9 +118,9 @@ Med tydelig eierskap.»
 «Og når vi jobber slik,
 skjer det noen interessante ting.»
 
-(Perfekt inngang til Del 6: Hvorfor dette faktisk er bedre.)
+(Perfekt inngang til Del 10: Hvorfor dette faktisk er bedre.)
 
 ---
-[← Forrige: Del 4 – Skriftet](del-4-skriftet.md) | [Neste: Del 6 – Konsekvensene](del-6-konsekvensene.md)
+[← Forrige: Del 8 – Eksempelet (byggesteinene og oppsettet)](del-8-eksempelet-byggesteiner.md) | [Neste: Del 10 – Konsekvensene](del-10-konsekvensene.md)
 
 [Til hovedoversikt](komposisjon.md)
