@@ -1,6 +1,6 @@
 # Komposisjon – Del 5: Eksempelet (den lille prosessen)
 
-**Tidsbruk:** ca. 4–5 minutter
+**Tidsbruk:** ca. 4,5–5,5 minutter
 
 (Nå kan energien gå litt opp, men hold det rolig.)
 
@@ -26,7 +26,32 @@ Demoen skal vise fire ting, og kun disse:
 - Den er ikke bundet til en plattform
 - Den produserer et reelt, varig resultat
 
-## 3. Demo-oppsett
+## 3. Faglig del: byggesteinene (1,5–2 min)
+
+**Slide-tittel:** «Små byggeklosser, stor effekt»
+
+**Kjernepoeng (si dette):**
+«Vi vil ha prosesser som er portable, testbare og lokale – med lavt overhead.»
+
+**Tre egenskaper å fremheve:**
+- **Portabilitet:** Samme prosess kan flyttes mellom laptop, CI, container og sky.
+- **Testbarhet:** Små prosesser kan verifiseres med enkle tester og gir trygghet.
+- **Lokal utvikling:** Kort feedback-loop uten å vente på cluster eller provisioning.
+
+**To praktiske konsekvenser:**
+- **Små byggeklosser:** Mindre kompleksitet og tydeligere eierskap.
+- **Lite overhead:** Færre tjenester, lavere friksjon, enklere drift.
+
+**Byggesteinene (slide som liste):**
+- **Åpne formater (Parquet/Delta):** Kontrakt mellom prosesser, raskt og språkagnostisk.
+- **Lokale motorer (DuckDB):** Produksjonslignende SQL uten cluster.
+- **Arrow:** Effektiv dataflyt mellom Python, Rust og JVM.
+- **Transaksjonslag (delta-rs/Delta Lake):** Historikk, schema-evolusjon, reproduserbarhet.
+
+**Avsluttende setning (bro til demo):**
+«Dette er grunnen til at vi kan begynne lokalt – og fortsatt være cloud native senere.»
+
+## 4. Demo-oppsett
 
 **Problem (samme som historien)**
 
@@ -41,7 +66,7 @@ Demoen skal vise fire ting, og kun disse:
 - Delta Lake (via delta-rs eller parquet + metadata)
 - Ikke Spark. Ikke cluster. Ikke cloud.
 
-## 4. Demo – steg for steg
+## 5. Demo – steg for steg
 
 **Steg 0 — Sett premisset** *(10–15 sek)*
 
@@ -119,7 +144,7 @@ Overgang til Del 6:
 
 «Og når vi jobber slik, skjer det noen interessante ting – både teknisk og organisatorisk…»
 
-## 5. Knyt demoen eksplisitt til poenget
+## 6. Knyt demoen eksplisitt til poenget
 
 (Denne delen er viktigere enn selve kjøringen.)
 
@@ -137,7 +162,7 @@ Overgang til Del 6:
 
 «Den er bare ikke et krav for å komme i gang.»
 
-## 6. Ha klart til støtte
+## 7. Ha klart til støtte
 
 - én ferdig kjørt output-mappe
 - én skjermdump av resultatet
@@ -145,7 +170,7 @@ Overgang til Del 6:
 
 Men: si aldri at du har det. Bare vit det.
 
-## 7. Overgangen videre (manus)
+## 8. Overgangen videre (manus)
 
 (Etter demoen, rolig.)
 
