@@ -1,6 +1,6 @@
-# Komposisjon – Del 3: Gjenkjennelsen (mønsteret)
+# Komposisjon – Del 5: Gjenkjennelsen (mønsteret)
 
-**Tidsbruk:** ca. 2:30–3:00 minutter
+**Tidsbruk:** ca. 2,5–3 minutter
 
 (Rolig overgang. Første slide kan komme her, men stemmen bærer fortsatt.)
 
@@ -70,6 +70,6 @@ Ikke mindre robust.
 Bare… tidligere.»
 
 ---
-[← Forrige: Del 2 – Broen](del-2-broen.md) | [Neste: Del 4 – Skriftet](del-4-skriftet.md)
+[← Forrige: Del 4 – Broen](del-4-broen.md) | [Neste: Del 6 – Skriftet](del-6-skriftet.md)
 
 [Til hovedoversikt](komposisjon.md)

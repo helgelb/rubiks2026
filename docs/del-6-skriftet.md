@@ -1,4 +1,4 @@
-# Komposisjon – Del 4: Skriftet (fra plattform til prosess)
+# Komposisjon – Del 6: Skriftet (fra plattform til prosess)
 
 **Tidsbruk:** ca. 3–3,5 minutter
 
@@ -125,6 +125,6 @@ men som muliggjørere.»
 hvordan dette kan se ut i praksis.»
 
 ---
-[← Forrige: Del 3 – Gjenkjennelsen](del-3-gjenkjennelsen.md) | [Neste: Del 5 – Eksempelet](del-5-eksempelet.md)
+[← Forrige: Del 5 – Gjenkjennelsen](del-5-gjenkjennelsen.md) | [Neste: Del 7 – Eksempelet (introduksjon og mål)](del-7-eksempelet-intro.md)
 
 [Til hovedoversikt](komposisjon.md)
