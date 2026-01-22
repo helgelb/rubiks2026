@@ -36,6 +36,7 @@ Run tests:
 pytest -q
 ```
 
+<<<<<<< HEAD
 ## Justfile shortcuts
 
 If you have [`just`](https://github.com/casey/just) installed, you can run:
@@ -52,6 +53,8 @@ just container-run-custom
 just container-query
 ```
 
+=======
+>>>>>>> codex/evaluate-demo-and-suggest-improvements
 ## Container demo
 
 Build the image:
@@ -77,12 +80,15 @@ docker run --rm \
   --output output/customers.parquet
 ```
 
+<<<<<<< HEAD
 Query output after running:
 
 ```bash
 python support/query_output.py
 ```
 
+=======
+>>>>>>> codex/evaluate-demo-and-suggest-improvements
 One-command demo (guided, press Enter per step or pass `--auto`;
 optionally set `PYTHON_BIN` to point at a virtualenv):
 

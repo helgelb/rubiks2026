@@ -1,4 +1,4 @@
-# Komposisjon – Del 7: Avslutningen (retningen videre)
+# Komposisjon – Del 11: Avslutningen (retningen videre)
 
 **Tidsbruk:** ca. 1–1,25 minutter
 
@@ -50,6 +50,6 @@ kan resten komme etter.»
 (Oppdatert slutt-tidsbilde som blir stående som folk kan ta bilde av)
 
 ---
-[← Forrige: Del 6 – Konsekvensene](del-6-konsekvensene.md)
+[← Forrige: Del 10 – Konsekvensene](del-10-konsekvensene.md)
 
 [Til hovedoversikt](komposisjon.md)

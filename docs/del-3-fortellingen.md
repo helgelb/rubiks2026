@@ -1,30 +1,6 @@
-# Komposisjon – Del 1: Fortellingen
+# Komposisjon – Del 3: Fortellingen
 
-**Tidsbruk:** ca. 2,5–3 minutter
-
-**Åpning**
-
-*(Ingen slides, eller kun tittelen på skjermen.)*
-
-«Da jeg først skulle lage en presentasjon til Rubiks om data engineering,
-hadde jeg lyst til å gå teknisk dypt ned i open source-rammeverk
-for å drive data engineering – “localhost first” og cloud native:
-Delta Lake, DuckDB, Arrow, delta-rs.»
-
-«Men etter hvert som jeg jobbet med dette,
-innså jeg at det er noe mer fundamentalt jeg vil dele.»
-
-«Selve utgangspunktet for det jeg mener er viktigst for data engineering i 2026:
-grensesnittet mellom dataingeniør, (data-)plattformutvikler og systemutvikler.»
-
-«Og hvorfor systemutviklingsmentaliteten er helt avgjørende for en dataingeniør.»
-
-**Kort om meg**
-
-«Jeg heter [Navn], jobber med data og plattform på [Arbeidsplass].»
-«Jeg liker å bygge små, flyttbare prosesser – og lære av det som fungerer.»
-
-«La meg begynne med en kort historie.»
+**Tidsbruk:** ca. 1,5–1,75 minutter
 
 **Tolv megabyte**
 
@@ -118,6 +94,6 @@ De spør hva som faktisk må skje.
 Og noen ganger, før de åpner møtekalenderen, åpner de dataene.
 
 ---
-[Neste: Del 2 – Broen](del-2-broen.md)
+[← Forrige: Del 2 – Kort om meg](del-2-kort-om-meg.md) | [Neste: Del 4 – Broen](del-4-broen.md)
 
 [Til hovedoversikt](komposisjon.md)
