@@ -1,7 +1,6 @@
-customer_id,name,country,signup_date,monthly_spend_usd
-1, Alice ,no,2022-01-10,39.0
-2,Bob,se,2021-11-03,12.5
-3,Charlie,NO,2023-02-14,75
-4, Dee,dk,2020-06-22,8
-5,Eve,NO,2024-08-01,120.0
-6,Farah,SE,2019-09-30,20
+customer_id,name,country,signup_date
+1,Alice,NO,2022-01-10
+2,Bob,SE,2021-11-03
+3,Charlie,NO,2023-02-14
+4,Dee,DK,2020-06-22
+5,Eve,NO,2024-08-01

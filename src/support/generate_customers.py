@@ -11,7 +11,7 @@ from typing import Sequence
 
 from faker import Faker
 
-HEADER = "customer_id,name,country,signup_date,monthly_spend_usd\n"
+HEADER = "customer_id,name,country,signup_date\n"
 MIN_SIGNUP_DATE = date(2018, 1, 1)
 NAME_POOL_SIZE = 2048
 DATE_POOL_SIZE = 1024
@@ -68,8 +68,7 @@ def generate_rows(
         name = sanitize(f"{base_name} {suffix}")
         country = rng.choice(countries)
         signup_date = rng.choice(dates)
-        monthly_spend = round(rng.uniform(5, 250), 2)
-        yield idx, name, country, signup_date, monthly_spend
+        yield idx, name, country, signup_date
 
 
 def write_file(path: Path, target_bytes: int, faker: Faker) -> tuple[int, int]:
@@ -83,10 +82,10 @@ def write_file(path: Path, target_bytes: int, faker: Faker) -> tuple[int, int]:
         bytes_written += fh.write(HEADER)
         buffer: list[str] = []
         buffer_bytes = 0
-        for customer_id, name, country, signup_date, monthly_spend in generate_rows(
+        for customer_id, name, country, signup_date in generate_rows(
             rng, names, countries, dates
         ):
-            line = f"{customer_id},{name},{country},{signup_date},{monthly_spend}\n"
+            line = f"{customer_id},{name},{country},{signup_date}\n"
             buffer.append(line)
             buffer_bytes += len(line)
             bytes_written += len(line)

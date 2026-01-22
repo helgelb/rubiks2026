@@ -3,15 +3,15 @@
 Minimal, **portable** data process you can run anywhere:
 
 - Input: `input/customers.csv`
-- Process: `process.py` (Extract -> Transform -> Load)
-- Output: `output/customers_clean.parquet`
+- Process: `process.py` (CSV -> transform -> Parquet)
+- Output: `output/customers.parquet`
 - Proof of usability: `support/query_output.py`
 - Guardrails: `pytest` tests in `tests/`
 
 ## Quick start
 
 ```bash
-cd src
+cd demo
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # macOS/Linux: source .venv/bin/activate
@@ -34,42 +34,6 @@ Run tests:
 
 ```bash
 pytest -q
-```
-
-## Short demo snippets (match the slides)
-
-**Extract / Transform / Load**
-
-```bash
-python process.py --input input/customers.csv --output output/customers_clean.parquet
-```
-
-**Testing (pytest)**
-
-```bash
-pytest -q
-```
-
-**Scalability (bigger input, same code)**
-
-```bash
-python support/generate_customers.py --target-mib 25
-python process.py
-```
-
-**Portability (container)**
-
-```bash
-docker build -t rubiks-demo .
-docker run --rm -v "$PWD/output:/app/output" rubiks-demo
-```
-
-Shortcut scripts (optional):
-
-```bash
-bash support/demo_testing.sh
-bash support/demo_scale.sh
-bash support/demo_container.sh
 ```
 
 One-command demo (guided, press Enter per step or pass `--auto`;
