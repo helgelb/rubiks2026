@@ -1,6 +1,6 @@
 # Komposisjon – Del 3: Gjenkjennelsen (mønsteret)
 
-**Tidsbruk:** ca. 3:00–3:30 minutter
+**Tidsbruk:** ca. 2:30–3:00 minutter
 
 (Rolig overgang. Første slide kan komme her, men stemmen bærer fortsatt.)
 
@@ -29,6 +29,9 @@ Plattform vil sikre drift og stabilitet.»
 er bare én stemme blant mange.»
 
 (liten pause)
+
+«Når dataengineering ikke blir behandlet som systemutvikling,
+glipper ofte eierskapet i prosessen.»
 
 «Så beslutningene blir kollektive.
 Og ansvaret blir… diffust.»

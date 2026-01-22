@@ -18,12 +18,12 @@ Tabellen oppsummerer minimums- og maksimumstider per del, med kumulative interva
 
 | Del | Min tid | Maks tid | Total til nå | Gjenværende |
 | --- | --- | --- | --- | --- |
-| Del 1 – Fortellingen | 2.5 | 3 | 2.5–3 | 15.25–19 |
-| Del 2 – Broen | 0.75 | 1 | 3.25–4 | 14.5–18 |
-| Del 3 – Gjenkjennelsen | 3 | 3.5 | 6.25–7.5 | 11.5–14.5 |
-| Del 4 – Skriftet | 3.5 | 4 | 9.75–11.5 | 8–10.5 |
-| Del 5 – Eksempelet | 4 | 5 | 13.75–16.5 | 4.25–5.5 |
-| Del 6 – Konsekvensene | 3 | 4 | 16.75–20.5 | 1–1.5 |
-| Del 7 – Avslutningen | 1 | 1.5 | 17.75–22 | 0–0 |
+| Del 1 – Fortellingen | 2.5 | 3 | 2.5–3 | 14–16.5 |
+| Del 2 – Broen | 0.5 | 0.75 | 3–3.75 | 13.5–15.75 |
+| Del 3 – Gjenkjennelsen | 2.5 | 3 | 5.5–6.75 | 11–12.75 |
+| Del 4 – Skriftet | 3 | 3.5 | 8.5–10.25 | 8–9.25 |
+| Del 5 – Eksempelet | 4.5 | 5.5 | 13–15.75 | 3.5–3.75 |
+| Del 6 – Konsekvensene | 2.5 | 3 | 15.5–18.75 | 0.75–1 |
+| Del 7 – Avslutningen | 1 | 1.25 | 16.5–20 | 0–0 |
 
-**Total estimert varighet:** 17.75–22 minutter.
+**Total estimert varighet:** 16,5–20 minutter.

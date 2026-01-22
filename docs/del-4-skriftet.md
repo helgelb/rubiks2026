@@ -1,6 +1,6 @@
 # Komposisjon – Del 4: Skriftet (fra plattform til prosess)
 
-**Tidsbruk:** ca. 3,5–4 minutter
+**Tidsbruk:** ca. 3–3,5 minutter
 
 (Rolig. Dette er vendepunktet i foredraget.)
 
@@ -27,7 +27,7 @@ Data Engineering as Code.»
 «Ikke som et nytt rammeverk.
 Ikke som en erstatning for plattformer.»
 
-«Men som et startpunkt.»
+«Men som et startpunkt – med systemutviklingsmentalitet.»
 
 «I stedet for å spørre:
 Hvilken plattform skal vi bruke?»
@@ -80,6 +80,14 @@ ikke noe de gjømte seg bak.»
 
 «Plattformer er bra.
 Ofte helt nødvendige.»
+
+**Slide (disclaimer):** «Plattformer er styrke – men rekkefølgen betyr noe»
+
+«Dette er ikke en kritikk av store dataplattformer.
+Det er en påminnelse om rekkefølgen.»
+
+«Plattformer er sterke når vi skal skalere, standardisere og drifte.
+Men de gir mest effekt når vi allerede har en tydelig prosess å forsterke.»
 
 «Men de er sjelden det riktige stedet å starte
 når problemet fortsatt er lite, uklart –
