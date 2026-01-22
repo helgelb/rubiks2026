@@ -1,6 +1,6 @@
 # Komposisjon – Del 6: Konsekvensene (Hvorfor dette faktisk er bedre)
 
-**Tidsbruk:** ca. 3–4 minutter
+**Tidsbruk:** ca. 2,5–3 minutter
 
 (Tempo rolig. Dette er modningsdelen.)
 
@@ -26,6 +26,9 @@ Og kode kan eies.»
 
 «Plutselig kan noen faktisk si:
 Det er koden min.»
+
+«Det er systemutvikler-ansvaret
+data engineering ofte trenger mer av.»
 
 2. Kompleksitet blir synlig – tidligere
 

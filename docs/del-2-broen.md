@@ -1,6 +1,6 @@
 # Komposisjon – Del 2: Broen (stillhet og gjenkjennelse)
 
-**Tidsbruk:** ca. 45–60 sekunder
+**Tidsbruk:** ca. 30–45 sekunder
 
 (Pause. Se opp. La rommet være stille et øyeblikk.)
 

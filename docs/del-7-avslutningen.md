@@ -1,6 +1,6 @@
 # Komposisjon – Del 7: Avslutningen (retningen videre)
 
-**Tidsbruk:** ca. 1–1,5 minutter
+**Tidsbruk:** ca. 1–1,25 minutter
 
 (Tempo ned. Dette er siste bilde publikum sitter igjen med.)
 
