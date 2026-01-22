@@ -11,7 +11,7 @@ Minimal, **portable** data process you can run anywhere:
 ## Quick start
 
 ```bash
-cd demo
+cd src
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # macOS/Linux: source .venv/bin/activate
@@ -34,6 +34,31 @@ Run tests:
 
 ```bash
 pytest -q
+```
+
+## Container demo
+
+Build the image:
+
+```bash
+docker build -t rubiks-demo .
+```
+
+Run with defaults:
+
+```bash
+docker run --rm -v "$PWD/output:/app/output" rubiks-demo
+```
+
+Run with custom input/output paths:
+
+```bash
+docker run --rm \
+  -v "$PWD/input:/app/input" \
+  -v "$PWD/output:/app/output" \
+  rubiks-demo \
+  --input input/customers.csv \
+  --output output/customers.parquet
 ```
 
 One-command demo (guided, press Enter per step or pass `--auto`;

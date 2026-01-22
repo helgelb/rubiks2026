@@ -88,7 +88,7 @@ Demoen skal vise fire ting, og kun disse:
 
 **Steg 3 — Vis prosessen** *(45–60 sek)*
 
-Åpne `process.py`. Pek på tre blokker: Extract → Transform → Load.
+Åpne `process.py`. Pek på tre blokker: les → transform → skriv.
 
 «Dette er hele prosessen.»
 «Den leser CSV, gjør én transformasjon som er lett å forstå, og skriver et varig resultat.»
@@ -96,14 +96,14 @@ Demoen skal vise fire ting, og kun disse:
 
 Her kan du peke på:
 
-- extract
+- lesing
 - transformasjon
-- load
+- skriving
 
 **Steg 4 — Kjør prosessen lokalt** *(20–30 sek)*
 
 ```bash
-python process.py --input input/customers.csv --output output/customers_clean.parquet
+python process.py --input input/customers.csv --output output/customers.parquet
 ```
 
 «Ingen deploy.
@@ -139,19 +139,6 @@ pytest -q
 «Poenget er ikke at dette kjører lokalt.»
 «Poenget er at dette kan flyttes.»
 «Plattformen er ikke borte – men den er ikke et krav for å komme i gang.»
-
-**Kort ekstra (hvis tid):**
-
-- **Skalering (samme kode, større input):**
-  ```bash
-  python support/generate_customers.py --target-mib 25
-  python process.py
-  ```
-- **Portabilitet (container):**
-  ```bash
-  docker build -t rubiks-demo .
-  docker run --rm -v "$PWD/output:/app/output" rubiks-demo
-  ```
 
 Overgang til Del 6:
 
