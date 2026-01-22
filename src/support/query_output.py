@@ -26,8 +26,15 @@ def main() -> None:
 
     con = duckdb.connect(database=":memory:")
 
-    print("Rows:")
-    con.execute("SELECT * FROM read_parquet(?) ORDER BY customer_id", [str(f)])
+    print("Sample rows:")
+    con.execute(
+        """
+        SELECT customer_id, name, country, signup_year, annual_spend_usd
+        FROM read_parquet(?)
+        ORDER BY customer_id
+        """,
+        [str(f)],
+    )
     print(con.fetchall())
 
     print("\nCounts by country:")

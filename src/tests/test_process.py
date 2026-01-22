@@ -8,12 +8,12 @@ import pytest
 from process import build_paths, run_process
 
 
-CUSTOMER_SAMPLE = """customer_id,name,country,signup_date
-1,Alice,NO,2022-01-10
-2,Bob,SE,2021-11-03
-3,Charlie,NO,2023-02-14
-4,Dee,DK,2020-06-22
-5,Eve,NO,2024-08-01
+CUSTOMER_SAMPLE = """customer_id,name,country,signup_date,monthly_spend_usd
+1, Alice ,no,2022-01-10,39.0
+2,Bob,se,2021-11-03,12.5
+3,Charlie,NO,2023-02-14,75
+4, Dee,dk,2020-06-22,8
+5,Eve,NO,2024-08-01,120.0
 """
 
 
@@ -35,11 +35,17 @@ def test_run_process_creates_parquet(tmp_path: Path) -> None:
     assert n == 5
 
     con.execute(
-        "SELECT SUM(CASE WHEN is_norwegian THEN 1 ELSE 0 END) FROM read_parquet(?)",
+        """
+        SELECT
+            SUM(CASE WHEN is_norwegian THEN 1 ELSE 0 END),
+            ROUND(SUM(annual_spend_usd), 2)
+        FROM read_parquet(?)
+        """,
         [str(out_file)],
     )
-    norwegian = con.fetchone()[0]
+    norwegian, annual_total = con.fetchone()
     assert norwegian == 3
+    assert annual_total == 3054.0
 
 
 def test_missing_input_raises(tmp_path: Path) -> None:
