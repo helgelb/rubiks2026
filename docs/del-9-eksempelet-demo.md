@@ -11,7 +11,7 @@
 
 **Steg 1 — Vis mappen** *(10–15 sek)*
 
-Åpne `demo/` og vis filene (kort).
+Åpne `src/` og vis filene (kort).
 
 «Dette er hele prosjektet. Ingen YAML. Ingen miljømagi.»
 «Én inputfil, én prosess, én output.»
@@ -39,7 +39,7 @@ Her kan du peke på:
 **Steg 4 — Kjør prosessen lokalt** *(20–30 sek)*
 
 ```bash
-python process.py input/customers.csv output/
+python process.py --input input/customers.csv --output output/customers.parquet
 ```
 
 «Ingen deploy.
