@@ -1,17 +1,12 @@
 # Del 7 – Eksempelet: introduksjon og mål
 
-La oss gjøre dette helt konkret.
+Her er den minste versjonen av det vi snakker om.
 
-Ikke med et stort system.  
-Ikke med et diagram.
+Én input.  
+Én prosess.  
+Én output.
 
-Men med en liten prosess, slik dataingeniøren i historien gjorde.
-
-Og jeg skal være ærlig: Jeg savner dette.  
-Den lille prosessen du kan holde i hodet:
-hent, valider, transformer, skriv.
-
-Jeg vil at demoen skal vise fire ting:
+Demoen skal vise fire ting:
 
 1. Prosessen er liten og forståelig
 2. Den kan kjøres lokalt

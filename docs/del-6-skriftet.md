@@ -8,7 +8,6 @@ Rekkefølgen.
 De sluttet å starte med hvor dette skulle kjøre,  
 og startet med hva som faktisk skulle skje.
 
-
 Det er kjernen i det jeg kaller **Data Engineering as Code**:  
 små prosesser vi eier – gjennom kode og kontrakter.
 
@@ -24,18 +23,12 @@ En prosess som er:
 Poenget er ikke hvor den kjører.  
 Poenget er at den kan flyttes – og dermed reduserer lock-in.
 
-Kode som kan kjøres lokalt.  
-Kode som kan kjøres i CI.  
-Kode som kan kjøres i en container.  
-Kode som kan kjøres på en plattform – senere.
-
 *[Slide: “Plattformer skalerer drift. Prosesser skaper forståelse.”]*
 
-Når vi må tenke “hvor var det jeg skulle trykke”,  
-slutter vi å tenke “hvilken prosess løser problemet”.
+Når transformasjonslogikken bor i UI-klikk og produktspesifikke artefakter, blir den dyr å flytte.  
+Når den bor i prosess + kontrakt, kan plattformen bli et valg.
 
-Plattformer er viktige. Ofte helt nødvendige.  
-Men de gir mest effekt når vi allerede har en tydelig prosess å forsterke.
+Så la oss se en slik prosess.
 
 ---
 [← Forrige: Del 5 – Gjenkjennelsen](del-5-gjenkjennelsen.md) | [Neste: Del 7 – Eksempelet (introduksjon og mål)](del-7-eksempelet-intro.md)

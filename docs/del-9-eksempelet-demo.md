@@ -1,6 +1,6 @@
 # Del 9 – Eksempelet: Demoen (to lag)
 
-## A) Det jeg sier høyt (talekst)
+## A: Det jeg sier høyt (talekst)
 
 Dette er ikke en demo av et rammeverk. Det er en demo av et startpunkt.
 
@@ -17,7 +17,7 @@ Den er bare ikke et krav for å komme i gang.
 
 ---
 
-## B) Hva jeg gjør (runbook / operator-manus)
+## B: Hva jeg gjør (runbook / operator-manus)
 
 **Steg 1 — Vis mappen**  
 Åpne `src/` og vis filene kort.  
