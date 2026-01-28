@@ -1,128 +1,42 @@
-# Komposisjon – Del 6: Skriftet (fra plattform til prosess)
+# Del 6 – Skriftet: fra plattform til prosess
 
-**Tidsbruk:** ca. 3–3,5 minutter
+Hva var det egentlig som endret seg i historien?
 
-(Rolig. Dette er vendepunktet i foredraget.)
+Det var ikke teknologien.  
+Det var ikke teamet.  
+Det var rekkefølgen.
 
-«Så hva var det egentlig som endret seg i historien?»
+De sluttet å starte med hvor dette skulle kjøre,  
+og begynte å starte med hva som faktisk skulle skje.
 
-(kort pause)
+For meg er dette kjernen i det jeg kaller **Data Engineering as Code**.
 
-«Det var ikke teknologien.»
+Ikke et nytt rammeverk.  
+Ikke en erstatning for plattformer.
 
-«Det var ikke teamet.»
+Men et startpunkt – med systemutviklingsmentalitet.
 
-«Det var rekkefølgen.»
+I stedet for å spørre: “Hvilken plattform skal vi bruke?”  
+spør vi: “Hva er den minste prosessen som løser dette – korrekt, tydelig og med eierskap?”
 
-«De sluttet å starte med hvor dette skulle kjøre,
-og begynte å starte med hva som faktisk skulle skje.»
+En prosess som er:
+- lesbar  
+- kjørbar  
+- testbar  
+- flyttbar  
 
-(Første tydelige definisjon – sakte, presist.)
+Kode som kan kjøres lokalt.  
+Kode som kan kjøres i CI.  
+Kode som kan kjøres i skyen.  
+Eller et annet sted senere.
 
-«For meg er dette kjernen i det jeg kaller
-Data Engineering as Code.»
+Poenget er ikke hvor den kjører.  
+Poenget er at den kan flyttes.
 
-(kort pause)
+*[Slide: “Plattformer skalerer løsninger. Prosesser skaper forståelse.”]*
 
-«Ikke som et nytt rammeverk.
-Ikke som en erstatning for plattformer.»
-
-«Men som et startpunkt – med systemutviklingsmentalitet.»
-
-«I stedet for å spørre:
-Hvilken plattform skal vi bruke?»
-
-(liten pause)
-
-«Spør vi:
-Hva er den minste prosessen som løser dette – korrekt, tydelig og med eierskap?»
-
-(Tempo litt opp – energi.)
-
-«En prosess som er:»
-
-«lesbar»
-
-«kjørbar»
-
-«testbar»
-
-«flyttbar»
-
-(kort pause)
-
-«Kode som kan kjøres lokalt.
-Kode som kan kjøres i CI.
-Kode som kan kjøres i skyen.
-Eller et annet sted, senere.»
-
-«Poenget er ikke hvor den kjører.»
-
-«Poenget er at den kan flyttes.»
-
-(Knytt tydelig tilbake til historien.)
-
-«I historien var det akkurat dette som skjedde.»
-
-«Når prosessen først var tydelig –
-da ble plattformen et valg, ikke et krav.»
-
-«Plattformen ble noe de brukte,
-ikke noe de gjømte seg bak.»
-
-(Viktig presisering – tydelig, moden.)
-
-«Og dette er viktig:»
-
-(pause)
-
-«Dette handler ikke om å være imot plattformer.»
-
-«Plattformer er bra.
-Ofte helt nødvendige.»
-
-**Slide (disclaimer):** «Plattformer er styrke – men rekkefølgen betyr noe»
-
-«Dette er ikke en kritikk av store dataplattformer.
-Det er en påminnelse om rekkefølgen.»
-
-«Plattformer er sterke når vi skal skalere, standardisere og drifte.
-Men de gir mest effekt når vi allerede har en tydelig prosess å forsterke.»
-
-«Men de er sjelden det riktige stedet å starte
-når problemet fortsatt er lite, uklart –
-og i konstant endring.»
-
-(Ny formulering – noe publikum kan ta bilde av.)
-
-«Plattformer skalerer løsninger.»
-
-(kort pause)
-
-«Prosesser skaper forståelse.»
-
-(La den setningen lande.)
-
-«Når vi starter med prosessen:»
-
-«blir eierskapet tydelig»
-
-«blir kompleksiteten synlig»
-
-«blir arkitekturen et resultat – ikke et premiss»
-
-(Rolig overgang videre.)
-
-«Og det er her lette rammeverk og åpne formater
-faktisk begynner å gi mening.»
-
-«Ikke som mål i seg selv –
-men som muliggjørere.»
-
-(Tempo ned. Klar for neste del.)
-
-«Så la oss se litt nærmere på
-hvordan dette kan se ut i praksis.»
+Plattformer er viktige. Ofte helt nødvendige.  
+Men de gir mest effekt når vi allerede har en tydelig prosess å forsterke.
 
 ---
 [← Forrige: Del 5 – Gjenkjennelsen](del-5-gjenkjennelsen.md) | [Neste: Del 7 – Eksempelet (introduksjon og mål)](del-7-eksempelet-intro.md)

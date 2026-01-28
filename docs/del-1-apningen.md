@@ -1,23 +1,17 @@
-# Komposisjon – Del 1: Åpningen
+# Del 1 – Åpningen
 
-**Tidsbruk:** ca. 0,75–0,9 minutter
+Jeg skulle egentlig lage et teknisk foredrag om “localhost first” og cloud native data engineering.  
+Delta Lake. DuckDB. Arrow. Delta-rs.
 
-**Åpning**
+Men mens jeg jobbet med det, skjønte jeg at det er noe mer grunnleggende jeg heller vil dele.
 
-*(Ingen slides, eller kun tittelen på skjermen.)*
+For det viktigste jeg ser for data engineering i 2026, handler ikke først og fremst om verktøy.  
+Det handler om grensesnittet mellom dataingeniør, plattformutvikler og systemutvikler.
 
-«Da jeg først skulle lage en presentasjon til Rubiks om data engineering,
-hadde jeg lyst til å gå teknisk dypt ned i open source-rammeverk
-for å drive data engineering – “localhost first” og cloud native:
-Delta Lake, DuckDB, Arrow, delta-rs.»
+Og hvorfor systemutviklingsmentalitet er helt avgjørende, også når vi jobber med data.
 
-«Men etter hvert som jeg jobbet med dette,
-innså jeg at det er noe mer fundamentalt jeg vil dele.»
+*[Slide: Tittel + undertittel: “Data engineering på lavgir – men med full kontroll”]*
 
-«Selve utgangspunktet for det jeg mener er viktigst for data engineering i 2026:
-grensesnittet mellom dataingeniør, (data-)plattformutvikler og systemutvikler.»
-
-«Og hvorfor systemutviklingsmentaliteten er helt avgjørende for en dataingeniør.»
 
 ---
 [Neste: Del 2 – Kort om meg](del-2-kort-om-meg.md)

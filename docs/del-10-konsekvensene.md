@@ -1,131 +1,31 @@
-# Komposisjon – Del 10: Konsekvensene (Hvorfor dette faktisk er bedre)
+# Del 10 – Konsekvensene: hvorfor dette er bedre
 
-**Tidsbruk:** ca. 2,5–3 minutter
+Når vi begynner med prosessen i stedet for plattformen, skjer det noe interessant.  
+Ikke bare teknisk, men organisatorisk.
 
-(Tempo rolig. Dette er modningsdelen.)
+**Eierskap blir tydelig.**  
+Når prosessen er liten og kjørbar, blir det også tydelig hvem som eier den.  
+Det er kode, og kode kan eies.
 
-«Når vi begynner med prosessen i stedet for plattformen,
-skjer det noe interessant.»
+**Kompleksitet blir synlig tidligere.**  
+Kompleksitet forsvinner ikke.  
+Men når vi starter med prosessen, ser vi tidligere hva som er enkelt, hva som er vanskelig, og hva som bare ser vanskelig ut fordi det er pakket inn.
 
-(kort pause)
+**Plattformen blir et valg, ikke et krav.**  
+Når prosessen er flyttbar, kan vi ta plattformvalget når vi faktisk trenger det – som en forsterker for skalering og drift.
 
-«Ikke bare teknisk.
-Men organisatorisk.»
+**Lavere kognitiv last, høyere tempo.**  
+Små prosesser er lettere å forstå, lettere å endre, og enklere å holde i hodet.
 
-1. Eierskap blir tydelig
+**Bedre fundament for analyse og KI.**  
+Modeller bryr seg ikke om plattformer.  
+De bryr seg om data.  
+Når dataene er tydelig transformert og reproduserbare, blir de enklere å bruke videre.
 
-«Når en prosess er liten og kjørbar,
-er det også tydelig hvem som eier den.»
+Dette er ikke en oppskrift.  
+Det er en retning. Et annet sted å starte.
 
-«Det er ikke lenger systemet som feiler.»
-
-(kort pause)
-
-«Det er kode.
-Og kode kan eies.»
-
-«Plutselig kan noen faktisk si:
-Det er koden min.»
-
-«Det er systemutvikler-ansvaret
-data engineering ofte trenger mer av.»
-
-2. Kompleksitet blir synlig – tidligere
-
-«Kompleksitet forsvinner ikke.»
-
-«Men når vi starter med prosessen,
-ser vi den tidligere.»
-
-«Vi ser:
-– hva som er enkelt
-– hva som er vanskelig
-– og hva som bare ser vanskelig ut fordi det er pakket inn»
-
-«Arkitekturen blir et resultat av behov,
-ikke en antagelse om fremtid.»
-
-3. Plattformen blir et valg – ikke et krav
-
-«Når prosessen er flyttbar,
-kan vi ta plattformvalget når vi faktisk trenger det.»
-
-«Ikke for tidlig.
-Ikke for sent.»
-
-«Da bruker vi plattformer til det de er best på:»
-
-«skalering»
-
-«stabil drift»
-
-«deling og gjenbruk»
-
-«Ikke som et startpunkt.
-Men som en forsterker.»
-
-4. Lavere kognitiv last – høyere tempo
-
-«Små prosesser er lettere å forstå.»
-
-«De kan leses på fem minutter.»
-
-«De kan endres på én dag, ikke tre sprinter.»
-
-«Det gjør noe med tempo.»
-
-«Ikke fordi vi løper fortere,
-men fordi vi stopper å løpe i feil retning.»
-
-5. Et bedre fundament for analyse og KI
-
-(Knytt tydelig til salens tema.)
-
-«Og dette er spesielt viktig
-når vi snakker om analyse og KI.»
-
-«Modeller bryr seg ikke om plattformer.»
-
-(liten pause)
-
-«De bryr seg om data.»
-
-«Når dataene er:»
-
-«tydelig transformert»
-
-«reproduserbare»
-
-«forståelige»
-
-«da blir de også enklere å bruke videre –
-enten det er til analyse, feature engineering eller KI.»
-
-6. Viktig presisering (igjen)
-
-(Rolig, tydelig.)
-
-«Dette er ikke en oppskrift.»
-
-«Og det er ikke en erstatning for det dere allerede har.»
-
-«Det er en retning.»
-
-«Et annet sted å starte.»
-
-Avrunding – bro til avslutning
-
-«Små prosesser.
-Kjørbar kode.
-Tydelig eierskap.»
-
-(kort pause)
-
-«Data engineering på lavgir.»
-
-(liten pause)
-
-«Men med full kontroll.»
+*[Slide: “Data engineering på lavgir – men med full kontroll.”]*
 
 ---
 [← Forrige: Del 9 – Eksempelet (demoen)](del-9-eksempelet-demo.md) | [Neste: Del 11 – Avslutningen](del-11-avslutningen.md)

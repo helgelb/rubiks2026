@@ -1,30 +1,17 @@
-# Komposisjon – Del 7: Eksempelet (introduksjon og mål)
+# Del 7 – Eksempelet: introduksjon og mål
 
-**Tidsbruk:** ca. 0,75–1 minutt
+La oss gjøre dette helt konkret.
 
-(Nå kan energien gå litt opp, men hold det rolig.)
+Ikke med et stort system.  
+Ikke med et diagram.
 
-## 1. Overgangen inn i demoen (manus)
+Men med en liten prosess, slik dataingeniøren i historien gjorde.
 
-«La oss gjøre dette helt konkret.»
-
-«Ikke med et stort system.
-Ikke med et diagram.»
-
-«Men med en liten prosess.»
-
-(kort pause)
-
-«Dette er den typen kode dataingeniøren i historien skrev.»
-
-## 2. Hva demoen skal illustrere (tydelig mål)
-
-Demoen skal vise fire ting, og kun disse:
-
-- Prosessen er liten og forståelig
-- Den kan kjøres lokalt
-- Den er ikke bundet til en plattform
-- Den produserer et reelt, varig resultat
+Jeg vil at demoen skal vise fire ting:
+1. Prosessen er liten og forståelig  
+2. Den kan kjøres lokalt  
+3. Den er ikke bundet til en plattform  
+4. Den gir et reelt, varig resultat
 
 ---
 [← Forrige: Del 6 – Skriftet](del-6-skriftet.md) | [Neste: Del 8 – Eksempelet (byggesteinene og oppsettet)](del-8-eksempelet-byggesteiner.md)

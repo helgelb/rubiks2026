@@ -1,73 +1,39 @@
-# Komposisjon – Del 5: Gjenkjennelsen (mønsteret)
+# Del 5 – Gjenkjennelsen: mønsteret
 
-**Tidsbruk:** ca. 2,5–3 minutter
+Hvis denne historien kjennes kjent, er det ikke tilfeldig.
 
-(Rolig overgang. Første slide kan komme her, men stemmen bærer fortsatt.)
+Dette handler ikke om én CSV-fil.  
+Det handler om et mønster.
 
-«Hvis denne historien føles kjent, er det ikke tilfeldig.»
+Vi starter ofte med det som er størst og tryggest: plattformen, standardene, arkitekturen.  
+Ikke fordi vi er late, men fordi vi er ansvarlige.
 
-«For dette handler ikke om én CSV-fil.
-Det handler om et mønster.»
+Rundt bordet sitter det mange roller, og alle har gode grunner:  
+Arkitekten vil sikre helheten.  
+Teamlederen vil sikre fremdrift.  
+Sikkerhet vil sikre etterlevelse.  
+Plattform vil sikre drift og stabilitet.
 
-(kort pause)
+Og dataingeniøren er én stemme blant mange.
 
-«Vi starter ofte med det som er størst og tryggest.
-Plattformen. Standardene. Arkitekturen.»
+Når data engineering ikke blir behandlet som systemutvikling, glipper ofte eierskapet i prosessen.  
+Beslutningene blir kollektive, og ansvaret blir diffust.
 
-«Ikke fordi vi er late.
-Men fordi vi er ansvarlige.»
+Og da skjer noe ganske subtilt:  
+Koden flytter lenger bort fra de som forstår dataene.  
+Dataene flytter lenger bort fra de som skriver koden.
 
-«Rundt bordet sitter det mange roller.
-Alle med gode grunner.»
+Til slutt har vi et system som fungerer – men som ingen helt eier.
 
-«Arkitekten vil sikre helheten.
-Teamlederen vil sikre fremdrift.
-Sikkerhet vil sikre etterlevelse.
-Plattform vil sikre drift og stabilitet.»
+Det er da vi begynner å si:  
+“Det er nok noe med infrastrukturen.”  
+“Det er sikkert rettigheter.”  
+“Det må være skjemaet.”
 
-«Og dataingeniøren…
-er bare én stemme blant mange.»
+Men sjelden: “Det er koden min.”
 
-(liten pause)
-
-«Når dataengineering ikke blir behandlet som systemutvikling,
-glipper ofte eierskapet i prosessen.»
-
-«Så beslutningene blir kollektive.
-Og ansvaret blir… diffust.»
-
-«Det er her noe subtilt skjer.»
-
-«Koden flytter lenger og lenger bort fra de som forstår dataene.
-Dataene flytter lenger og lenger bort fra de som skriver koden.»
-
-«Til slutt har vi et system som fungerer…
-men som ingen helt eier.»
-
-(Nesten siterende tone.)
-
-«– Det er nok noe med infrastrukturen.»
-«– Det er sikkert rettigheter.»
-«– Det må være skjemaet.»
-
-(kort pause)
-
-«Men nesten aldri:
-Det er koden min.»
-
-«Dette er ikke et kulturproblem.
-Det er et startpunkt-problem.»
-
-«Vi har bygget veldig gode plattformer.
-Men vi har også lært oss å gjemme enkelheten bak dem.»
-
-(Tempo ned, klar for neste del.)
-
-«Og det er nettopp her jeg mener vi trenger å tenke litt annerledes.»
-
-«Ikke mindre seriøst.
-Ikke mindre robust.
-Bare… tidligere.»
+Det er ikke et kulturproblem.  
+Det er et startpunkt-problem.
 
 ---
 [← Forrige: Del 4 – Broen](del-4-broen.md) | [Neste: Del 6 – Skriftet](del-6-skriftet.md)

@@ -1,53 +1,28 @@
-# Komposisjon – Del 11: Avslutningen (retningen videre)
+# Del 11 – Avslutningen: retningen videre
 
-**Tidsbruk:** ca. 1–1,25 minutter
+Så hva gjør vi med dette?
 
-(Tempo ned. Dette er siste bilde publikum sitter igjen med.)
+Ikke i morgen.  
+Ikke på neste roadmap.
 
-«Så… hva gjør vi med dette?»
+Men i neste lille oppgave.
 
-(kort pause)
+Neste gang noen sier: “Det er bare en liten jobb”,  
+så still ett spørsmål først:
 
-«Ikke i morgen.
-Ikke på neste roadmap.»
+**Hva er den minste prosessen som faktisk løser dette – og som vi kan eie?**
 
-«Men i neste lille oppgave.»
+Ikke hvilken plattform.  
+Ikke hvilken standard.  
+Men hvilken kode.
 
-«Neste gang noen sier:
-‘Det er bare en liten jobb’»
+Hvis vi starter der, kan resten komme etter.
 
-(liten pause)
+Teamet i historien kastet ikke plattformen.  
+De sluttet bare å starte der.
 
-«…så kan vi stille ett spørsmål først.»
-
-(Tydelig, langsomt.)
-
-«Hva er den minste prosessen som faktisk løser dette –
-og som vi kan eie?»
-
-«Ikke hvilken plattform.
-Ikke hvilken standard.»
-
-«Men hvilken kode.»
-
-«Hvis vi starter der,
-kan resten komme etter.»
-
-(Knytt eksplisitt tilbake til starten.)
-
-«Teamet i historien kastet ikke plattformen.»
-
-«De sluttet bare å starte der.»
-
-(Avsluttende linje – samme som i programteksten.)
-
-«Data engineering på lavgir.»
-
-(pause)
-
-«Men med full kontroll.»
-
-(Oppdatert slutt-tidsbilde som blir stående som folk kan ta bilde av)
+**Data engineering på lavgir.**  
+**Men med full kontroll.**
 
 ---
 [← Forrige: Del 10 – Konsekvensene](del-10-konsekvensene.md)
