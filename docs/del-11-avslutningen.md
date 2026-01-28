@@ -13,8 +13,8 @@ så still ett spørsmål først:
 **Hva er den minste prosessen som faktisk løser dette – og som vi kan eie?**
 
 Ikke hvilken plattform.  
-Ikke hvilken standard.  
-Men hvilken kode.
+Ikke hvilket produkt.  
+Men hvilken kode og hvilke kontrakter.
 
 Hvis vi starter der, kan resten komme etter.
 

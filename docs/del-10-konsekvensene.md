@@ -15,12 +15,13 @@ Men når vi starter med prosessen, ser vi tidligere hva som er enkelt, hva som e
 Når prosessen er flyttbar, kan vi ta plattformvalget når vi faktisk trenger det – som en forsterker for skalering og drift.
 
 **Lavere kognitiv last, høyere tempo.**  
-Små prosesser er lettere å forstå, lettere å endre, og enklere å holde i hodet.
+Når jobben handler om å huske verktøy og menyer, går tempoet ned.  
+Når jobben handler om en liten, tydelig prosess, går tempoet opp.
 
 **Bedre fundament for analyse og KI.**  
 Modeller bryr seg ikke om plattformer.  
 De bryr seg om data.  
-Når dataene er tydelig transformert og reproduserbare, blir de enklere å bruke videre.
+Når dataene er tydelig transformert, reproduserbare og testet, blir de enklere å bruke videre.
 
 Dette er ikke en oppskrift.  
 Det er en retning. Et annet sted å starte.

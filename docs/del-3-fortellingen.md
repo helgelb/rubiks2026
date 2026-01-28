@@ -61,8 +61,8 @@ Plattformutvikleren så opp.
 Han nikket. Plattformen var fin. Robust. Viktig.  
 Men dette var ikke bundet til den.
 
-Det var bare en prosess.  
-Kode som kunne kjøres lokalt, i CI, i skyen – eller et annet sted senere.  
+Det var en prosess:  
+kode som kunne kjøres lokalt, i CI, i skyen – eller et annet sted senere.  
 Den kunne flyttes uten å skrives om.
 
 De kjørte koden sammen.  

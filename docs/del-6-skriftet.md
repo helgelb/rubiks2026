@@ -14,7 +14,8 @@ For meg er dette kjernen i det jeg kaller **Data Engineering as Code**.
 Ikke et nytt rammeverk.  
 Ikke en erstatning for plattformer.
 
-Men et startpunkt – med systemutviklingsmentalitet.
+Men et startpunkt – med systemutviklingsmentalitet:  
+Vi bygger prosesser som kan flyttes, slik at vi unngår unødvendig lock-in.
 
 I stedet for å spørre: “Hvilken plattform skal vi bruke?”  
 spør vi: “Hva er den minste prosessen som løser dette – korrekt, tydelig og med eierskap?”
@@ -27,13 +28,18 @@ En prosess som er:
 
 Kode som kan kjøres lokalt.  
 Kode som kan kjøres i CI.  
-Kode som kan kjøres i skyen.  
-Eller et annet sted senere.
+Kode som kan kjøres i en container.  
+Kode som kan kjøres på en plattform – senere.
 
 Poenget er ikke hvor den kjører.  
 Poenget er at den kan flyttes.
 
-*[Slide: “Plattformer skalerer løsninger. Prosesser skaper forståelse.”]*
+*[Slide: “Plattformer skalerer drift. Prosesser skaper forståelse.”]*
+
+Og en praktisk tommelfingerregel jeg bruker:
+
+Når vi må tenke “hvor var det jeg skulle trykke”,  
+slutter vi å tenke “hvilken prosess løser problemet”.
 
 Plattformer er viktige. Ofte helt nødvendige.  
 Men de gir mest effekt når vi allerede har en tydelig prosess å forsterke.

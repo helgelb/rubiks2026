@@ -35,6 +35,9 @@ Men sjelden: “Det er koden min.”
 Det er ikke et kulturproblem.  
 Det er et startpunkt-problem.
 
+Og i det øyeblikket vi går fra kode til klikk,  
+går vi ofte også fra eierskap til grensesnitt.
+
 ---
 [← Forrige: Del 4 – Broen](del-4-broen.md) | [Neste: Del 6 – Skriftet](del-6-skriftet.md)
 
