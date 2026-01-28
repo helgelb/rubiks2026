@@ -1,42 +1,35 @@
 # Del 6 – Skriftet: fra plattform til prosess
 
-Hva var det egentlig som endret seg i historien?
+Hva var det som endret seg i historien?
 
-Det var ikke teknologien.  
-Det var ikke teamet.  
-Det var rekkefølgen.
+Ikke teknologien. Ikke teamet.  
+Rekkefølgen.
 
 De sluttet å starte med hvor dette skulle kjøre,  
-og begynte å starte med hva som faktisk skulle skje.
+og startet med hva som faktisk skulle skje.
 
-For meg er dette kjernen i det jeg kaller **Data Engineering as Code**.
 
-Ikke et nytt rammeverk.  
-Ikke en erstatning for plattformer.
+Det er kjernen i det jeg kaller **Data Engineering as Code**:  
+små prosesser vi eier – gjennom kode og kontrakter.
 
-Men et startpunkt – med systemutviklingsmentalitet:  
-Vi bygger prosesser som kan flyttes, slik at vi unngår unødvendig lock-in.
-
-I stedet for å spørre: “Hvilken plattform skal vi bruke?”  
-spør vi: “Hva er den minste prosessen som løser dette – korrekt, tydelig og med eierskap?”
+I stedet for “hvilken plattform?”, spør vi:  
+“Hva er den minste prosessen som løser dette – korrekt og tydelig?”
 
 En prosess som er:
-- lesbar  
-- kjørbar  
-- testbar  
-- flyttbar  
+- lesbar
+- kjørbar
+- testbar
+- flyttbar
+
+Poenget er ikke hvor den kjører.  
+Poenget er at den kan flyttes – og dermed reduserer lock-in.
 
 Kode som kan kjøres lokalt.  
 Kode som kan kjøres i CI.  
 Kode som kan kjøres i en container.  
 Kode som kan kjøres på en plattform – senere.
 
-Poenget er ikke hvor den kjører.  
-Poenget er at den kan flyttes.
-
 *[Slide: “Plattformer skalerer drift. Prosesser skaper forståelse.”]*
-
-Og en praktisk tommelfingerregel jeg bruker:
 
 Når vi må tenke “hvor var det jeg skulle trykke”,  
 slutter vi å tenke “hvilken prosess løser problemet”.

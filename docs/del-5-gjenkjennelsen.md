@@ -1,12 +1,9 @@
 # Del 5 – Gjenkjennelsen: mønsteret
 
-Hvis denne historien kjennes kjent, er det ikke tilfeldig.
+Hvis dette kjennes kjent, er det fordi det er et mønster.
 
-Dette handler ikke om én CSV-fil.  
-Det handler om et mønster.
-
-Vi starter ofte med det som er størst og tryggest: plattformen, standardene, arkitekturen.  
-Ikke fordi vi er late, men fordi vi er ansvarlige.
+Vi starter ofte med det tryggeste: plattform, standarder, arkitektur.  
+Ikke fordi vi er late – men fordi vi vil gjøre det ordentlig.
 
 Rundt bordet sitter det mange roller, og alle har gode grunner:  
 Arkitekten vil sikre helheten.  
@@ -16,27 +13,17 @@ Plattform vil sikre drift og stabilitet.
 
 Og dataingeniøren er én stemme blant mange.
 
-Når data engineering ikke blir behandlet som systemutvikling, glipper ofte eierskapet i prosessen.  
+Men når data engineering ikke behandles som systemutvikling, glipper eierskapet.  
 Beslutningene blir kollektive, og ansvaret blir diffust.
 
-Og da skjer noe ganske subtilt:  
-Koden flytter lenger bort fra de som forstår dataene.  
-Dataene flytter lenger bort fra de som skriver koden.
-
-Til slutt har vi et system som fungerer – men som ingen helt eier.
-
-Det er da vi begynner å si:  
-“Det er nok noe med infrastrukturen.”  
-“Det er sikkert rettigheter.”  
-“Det må være skjemaet.”
-
-Men sjelden: “Det er koden min.”
-
-Det er ikke et kulturproblem.  
-Det er et startpunkt-problem.
+Koden flytter bort fra data. Og data flytter bort fra kode.  
+Til slutt har vi noe som fungerer – men som ingen helt eier.
 
 Og i det øyeblikket vi går fra kode til klikk,  
 går vi ofte også fra eierskap til grensesnitt.
+
+Det er ikke et kulturproblem.  
+Det er et startpunkt-problem.
 
 ---
 [← Forrige: Del 4 – Broen](del-4-broen.md) | [Neste: Del 6 – Skriftet](del-6-skriftet.md)
